@@ -55,9 +55,13 @@ Examples included in `analysis_queries.sql`:
 - Top sub-categories by sales
 
 ## Dashboard Screenshots
-(Add your screenshots here after uploading to GitHub)
+<img width="1920" height="1020" alt="Screenshot 2026-02-20 181441" src="https://github.com/user-attachments/assets/796d12f4-e50e-452c-9803-ec8bf95955e3" />
+<img width="1920" height="1020" alt="Screenshot 2026-02-20 181604" src="https://github.com/user-attachments/assets/c72dca88-e7ab-4b12-8ae5-0268285452a9" />
+<img width="1920" height="1020" alt="Screenshot 2026-02-20 181748" src="https://github.com/user-attachments/assets/cd21e40d-fc06-4c93-a77f-8a4d19f1c205" />
+
 
 ## Future Improvements
 - Add more DAX measures (YoY growth, average order value)
 - Connect Power BI directly to SQLite database
+
 - Add advanced filtering and drill-through pages
